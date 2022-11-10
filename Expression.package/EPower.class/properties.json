@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "EBinaryExpression",
+	"category" : "Expression",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EPower",
+	"type" : "normal"
+}
